@@ -10,7 +10,8 @@
   - 회원별 스케쥴 관리 플랫폼<br><br>
 - 주요 기능
   - 회원관리 : 회원가입/로그인/정보수정/회원탈퇴/아이디찾기/비밀번호재설정<br>
-  JavaScript와 axios를 사용하여 server와 api통신을 통해 데이터를 주고 받을 수 있다.
+  JavaScript와 axios를 사용하여 server와 api통신을 통해 데이터를 주고 받을 수 있다.<br>
+  HTML과 CSS를 사용하여 각종 페이지를 원하는대로 디자인 할 수 있다.<br>
   - 프로젝트 : 메모 작성/메모 수정/메모 삭제/날짜별 기록정리<br><br>
 - 기술스택
   - Front-End : HTML/CSS/JavaScript/jQquery
