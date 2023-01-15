@@ -5,8 +5,7 @@
 ## 기술스택 :
 
 - Front-End : HTML/CSS/JavaScript/jQquery/Axios
-- Back-End : Node.js/MySQL/Axios
-<br>
+- Back-End : Node.js/MySQL/Axios <br>
 
 ## 주요 기능 :
 
@@ -17,7 +16,7 @@
 
 - HTML/CSS 를 사용하여 UI/UX 관리
 - axios 를 사용 하여 API정보를 송·수신
-- GitHub을 이용한 형상관리
+- GitHub을 이용한 형상관리 <br>
 
 ![image](https://user-images.githubusercontent.com/108252913/190981752-aa79099b-d189-4338-98c0-a780bcd4a3ee.png)
 ![image](https://user-images.githubusercontent.com/108252913/190981882-d94af88d-20fb-4eb1-96a1-58c55250363f.png)
